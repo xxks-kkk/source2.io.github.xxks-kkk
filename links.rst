@@ -18,15 +18,17 @@
 .. _facebook: http://www.facebook.com/zeyuan.hu
 .. _googleplus: https://plus.google.com/u/0/108093060668195611643/about
 .. _linkedin: http://www.linkedin.com/profile/view?id=200377083&trk=tab_pro
-.. _renren: http://www.renren.com/269561995
-  
+.. _github: https://github.com/xxks-kkk
+.. _stackoverflow: http://stackoverflow.com/users/1460102/jerry
+.. _twitter: https://twitter.com/zeyuanhu
+
 .. Econ
 .. _metrics: http://en.wikipedia.org/wiki/Econometrics
 .. _gametheory: http://en.wikipedia.org/wiki/Game_theory
 
 .. Python modules
 .. _python: http://www.python.org
-.. _sphinx: http://sphinx-doc.org/
+.. _sphinx-doc: http://sphinx-doc.org/
 .. _re: http://www.python.org/doc/current/lib/module-re.html
 .. _unittest: http://docs.python.org/2.7/library/unittest.html
 .. _matplotlib: http://matplotlib.org/gallery.html
@@ -45,3 +47,8 @@
 
 .. mobile
 .. _androidtut: http://developer.android.com/training/index.html
+
+.. ibm
+.. _`Big SQL`: http://www-01.ibm.com/software/data/infosphere/hadoop/big-sql.html
+.. _`federation`: http://www-03.ibm.com/software/products/en/ibminfofedeserv
+.. _`DB2`: http://www-01.ibm.com/software/data/db2/

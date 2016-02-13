@@ -1,5 +1,9 @@
+########
 News
-====
+########
+
+Feb 13 2016
+    Start to revive this site to reflect my current status.
 
 Feb 25 2013
     Android App project `Optitimal <projects/software_hardware/timing.html>`_ has launched.
@@ -23,7 +27,7 @@ Dec 26 2012
     It could be found `here <http://mywebspace.wisc.edu/zhu45/web/v1/>`_
 
 Dec 24 2012
-    the verison 2 of personal website project has launched (adopt Sphinx_ toolset)
+    the verison 2 of personal website project has launched (adopt Sphinx-Doc_ toolset)
 
 
 Dec 25 2012

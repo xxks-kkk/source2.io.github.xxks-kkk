@@ -55,7 +55,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'zeyuan'
-copyright = u'2012-2013, Zeyuan Hu'
+copyright = u'2012-2016, Zeyuan Hu'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -78,7 +78,11 @@ release = '1.0'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build']
+exclude_patterns = ['_build', 'exlinks.rst',
+                    'comment.rst', 'contact.rst',
+                    'links.rst', 'news.rst',
+                    'quotes.rst', 'todo.rst',
+                    ]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
