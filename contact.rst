@@ -1,8 +1,4 @@
 
-#######
-Contact
-#######
-
 .. admonition:: Zeyuan Hu
 
    Email

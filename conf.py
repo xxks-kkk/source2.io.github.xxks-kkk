@@ -80,8 +80,7 @@ release = '1.0'
 # directories to ignore when looking for source files.
 exclude_patterns = ['_build', 'exlinks.rst',
                     'comment.rst', 'contact.rst',
-                    'links.rst', 'news.rst',
-                    'quotes.rst', 'todo.rst',
+                    'links.rst', 
                     ]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
