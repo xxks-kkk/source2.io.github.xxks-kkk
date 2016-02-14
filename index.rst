@@ -13,7 +13,7 @@ Welcome
    :keywords: Zeyuan Hu, Zeyuan, Zeyuan uw, Zeyuan UW Madison, UW Madison, University of Wisconsin Madison, ibm
    :author: Zeyuan Hu
 
-Welcome! I am a software developer \@ IBM working on Big Data `federation`_ query server and `Big SQL`_, a Massively Parallel Processing query engine on Hadoop.
+I am a software developer \@ IBM working on Big Data `federation`_ query server and `Big SQL`_, a Massively Parallel Processing query engine on Hadoop.
 
 
    
@@ -29,7 +29,7 @@ Welcome! I am a software developer \@ IBM working on Big Data `federation`_ quer
    :hidden:
    
    kb.rst
-   ./projects/index.rst
+   pj.rst
    resume.rst
    personal.rst 
 

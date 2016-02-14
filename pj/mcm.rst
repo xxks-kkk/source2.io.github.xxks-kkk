@@ -1,12 +1,8 @@
-.. _mcm_index:
+.. _mcm.rst:
 
-======================================
-Mathematical Contest in Modeling (MCM)
-======================================
-
-
-2013
-----
+#############################################
+Mathematical Contest in Modeling (MCM) 2013
+#############################################
 
 This is my first time in my life to participate this exciting competition. 
 I am so lucky to have a chance to work with my two unbelievably amazing teammates - Nick Grabon, and Sunil Upadhyay --
@@ -37,10 +33,9 @@ From them, I learned a lot of things: *Nick*, who shows me how to critically con
 During this contest, I am mainly in charge of the model implementation and simulation interpretation, including data visualization, and 
 data interpretation.
 
-Please email me if you are interested in the actual program implementation. I used `Python`_ to do all this fancy stuff.
 
-You can download our paper `here <../../_static/mcm/23521.pdf>`_
-
+You can download our `paper </_static/mcm/23521.pdf>`_
 
 
-.. include:: ../../links.rst
+
+.. include:: /links.rst

@@ -28,6 +28,14 @@ Topics
 Programming Languages
 **********************
 
+Some language study notes I made.
+
+.. toctree::
+    :maxdepth: 1
+
+    /kb/python/diveintopython/diveintopython.rst
+    /kb/python/pythoninpractice/python_in_practice.rst
+
 ***************
 All Other
 ***************
@@ -43,6 +51,7 @@ Tools
     
     /kb/sphinx/sphinx.rst
     /kb/git.rst
+    /kb/emacs.rst
 
 ==========
 Linux
@@ -52,6 +61,7 @@ Linux
     :maxdepth: 1
 
     /kb/linux/awk.rst
+    /kb/linux/linux_cmd.rst
 
 ===========
 Non-CS

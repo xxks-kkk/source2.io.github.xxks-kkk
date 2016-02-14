@@ -1,9 +1,8 @@
-.. _timing:
+.. _optitimal.rst:
 
-================
+############
 OptiTimal
-================
-
+############
 
 What is OptiTimal? Why this name?
 ---------------------------------
@@ -23,5 +22,4 @@ Development Progress
 --------------------
 
 Feb 25th 2013
-    Project proposal is submitted and under reviewed. You can download it `here <../../_static/project_proposal.pdf>`_
-
+    `Project proposal </_static/project_proposal.pdf>`_ is submitted and under reviewed.
