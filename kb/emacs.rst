@@ -101,6 +101,8 @@ Cursor Movement
 - **C-a** go to beginning of the line
 - **C-e** go to the end of the line
 - **M-x goto-line** go to the line specified
+- **C-e RET** simulate ``o`` in vi
+- **C-a RET** simulate ``O`` in vi
 
 Searching and Replacing
 =======================

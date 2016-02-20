@@ -34,4 +34,8 @@ The solutions provided by link should work because I have tested them by myself
 
 	  | $ git remote add origin git@github.com:username/new_repo
 	  | $ git push -u origin master
+
 - `Discard unstaged changes in Git <http://stackoverflow.com/questions/52704/how-do-you-discard-unstaged-changes-in-git>`_
+
+
+
