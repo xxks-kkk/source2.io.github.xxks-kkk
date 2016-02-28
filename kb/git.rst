@@ -37,5 +37,6 @@ The solutions provided by link should work because I have tested them by myself
 
 - `Discard unstaged changes in Git <http://stackoverflow.com/questions/52704/how-do-you-discard-unstaged-changes-in-git>`_
 
+- `git checkout -- multiple files <http://stackoverflow.com/questions/24916186/how-to-do-git-checkout-theirs-for-multiple-files-or-all-unmerged-files>`_
 
 
