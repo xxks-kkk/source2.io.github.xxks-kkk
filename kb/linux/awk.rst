@@ -123,3 +123,4 @@ Resources
 ************
 
 - `AWK short tutorial <http://coolshell.cn/articles/9070.html>`_
+- `AWK Language Programming for Utah.edu <http://www.math.utah.edu/docs/info/gawk_toc.html>`_
