@@ -37,8 +37,13 @@ extensions = [#'sphinx.ext.autodoc',
               'ipython_console_highlighting',
               'ipython_directive',
               #'mathmpl',
-              'sphinx.ext.todo'
+              'sphinx.ext.todo',
+              'newsfeed',
               ]
+
+# disqus
+disqus_shortname = 'zeyuan'
+
 # config variable for sphinx.ext.todo to decide whether the output should be showed up. default is False.
 todo_include_todos = True
 # Add any paths that contain templates here, relative to this directory.
@@ -149,7 +154,7 @@ html_last_updated_fmt = '%b %d, %Y'
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    '**': ['localtoc.html','sourcelink.html','todo.html','searchbox.html']
+    '**': ['localtoc.html','sourcelink.html','todo.html','blog.html','searchbox.html']
 }
 
 # Additional templates that should be rendered to pages, maps page names to
