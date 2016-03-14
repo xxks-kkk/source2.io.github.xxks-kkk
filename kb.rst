@@ -29,7 +29,7 @@ Algorithm
 ***********
 
 .. toctree::
-    :maxdepth: 1
+   :maxdepth: 1
 
    /kb/algo/invariant.rst
 
