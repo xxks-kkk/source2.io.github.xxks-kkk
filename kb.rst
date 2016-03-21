@@ -24,21 +24,22 @@ Topics
     /kb/db2/db2-topics/p4.rst
     /kb/db2/db2-topics/db2_howto.rst
 
-***********
-Algorithm
-***********
+..
+   ***********
+   Algorithm
+   ***********
 
-.. toctree::
-   :maxdepth: 1
+   .. toctree::
+      :maxdepth: 1
 
-   /kb/algo/invariant.rst
+      /kb/algo/invariant.rst
 
 
 **********************
 Programming Languages
 **********************
 
-Some language study notes I made.
+Some language study notes I made when I was in college.
 
 ==========
 Python
@@ -56,9 +57,6 @@ All Other
 
 Misc topics and tips.
 
-==========
-Tools
-==========
 
 .. toctree::
     :maxdepth: 1
@@ -66,24 +64,17 @@ Tools
     /kb/sphinx/sphinx.rst
     /kb/git.rst
     /kb/emacs.rst
-
-==========
-Linux
-==========
-
-.. toctree::
-    :maxdepth: 1
-
     /kb/linux/awk.rst
     /kb/linux/linux_cmd.rst
 
-===========
-Non-CS
-===========
+..
+   ===========
+   Non-CS
+   ===========
 
-.. toctree::
-    :maxdepth: 1
+   .. toctree::
+       :maxdepth: 1
 
-    /kb/theelementsofstyle/the_elements_of_style.rst
+       /kb/theelementsofstyle/the_elements_of_style.rst
 
 .. include:: links.rst
