@@ -18,7 +18,7 @@ body {
     letter-spacing: 0em; /* makes words look more compact */
     line-height: 120%;   /* makes words look more compact */
     text-align: center;
-    color: black;
+    color: #404040;
     padding: 0;
     border: 1px solid #0a507a;
     background-image: url(bodybg.png);
