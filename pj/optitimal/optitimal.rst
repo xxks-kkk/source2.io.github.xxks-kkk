@@ -4,6 +4,8 @@
 OptiTimal
 ############
 
+Last Update: November 18, 2013
+
 =================================
 What is OptiTimal? Why this name?
 =================================
@@ -20,13 +22,13 @@ Features
 
 OptiTimal is a time management app. I don't want you to waste anytime on the app itself. So, everything is kept simple and easy to figure out.
 
-.. image:: optitimal/main.jpeg
+.. image:: main.jpeg
    :height: 384px
    :width: 216px
-.. image:: optitimal/setting01.jpeg
+.. image:: setting01.jpeg
    :height: 384px
    :width: 216px
-.. image:: optitimal/tracking-category-list.jpeg
+.. image:: tracking-category-list.jpeg
    :height: 384px
    :width: 216px
 
@@ -34,13 +36,13 @@ OptiTimal is a time management app. I don't want you to waste anytime on the app
 
 The task page is kept simple but it's poweful enough to allow you record any todo task that you may encounter. Also, a todo task can never get easily missed!
 
-.. image:: optitimal/task01.jpeg
+.. image:: task01.jpeg
    :height: 384px
    :width: 216px
-.. image:: optitimal/task02.jpeg
+.. image:: task02.jpeg
    :height: 384px
    :width: 216px
-.. image:: optitimal/notification.jpeg
+.. image:: notification.jpeg
    :height: 384px
    :width: 216px
 
@@ -50,13 +52,13 @@ Time is valuable resource to you and OptiTimal provides a straightforward way to
 utilization. OptiTimal offers you pie chart and line chart  to help you better understand what keeps you occupied the most. Furthermore, OptiTimal comes
 with multiple categories to allow you further customize on what kind of todo tasks you want to track.
 
-.. image:: optitimal/analyze01.jpeg
+.. image:: analyze01.jpeg
    :height: 384px
    :width: 216px
-.. image:: optitimal/analyze02.jpeg
+.. image:: analyze02.jpeg
    :height: 384px
    :width: 216px
-.. image:: optitimal/analyze03.jpeg
+.. image:: analyze03.jpeg
    :height: 384px
    :width: 216px
 
