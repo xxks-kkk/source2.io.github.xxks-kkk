@@ -14,6 +14,12 @@ To him he is always doing both."
 
 .. stop-show-quotes
 
+"No such thing as spare time, no such thing as free time, no such thing as down time. 
+All you got is life time. Go."
+
+**-- Henry Rollins**
+
+
 "If you want to become a good programmer, you can spend 10 years programming, or spend
 2 years programming and learning algorithms."
 
