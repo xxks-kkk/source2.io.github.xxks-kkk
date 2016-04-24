@@ -1,8 +1,8 @@
 .. _the-art-of-R-programming.rst:
 
-########################
-THE ART OF R PROGRAMMING
-########################
+################################
+REVIEW: THE ART OF R PROGRAMMING
+################################
 
 ::
 
@@ -10,17 +10,4 @@ THE ART OF R PROGRAMMING
    Author:  Norman Matloff
    Edition: 1st
 
-***********************
-Background when I read
-***********************
-
-
-***********************
-Reading notes
-***********************
-
-
-***********************
-Review
-***********************
 
