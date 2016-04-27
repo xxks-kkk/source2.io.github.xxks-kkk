@@ -20,8 +20,10 @@ The goal of this project is the following:
 - Spirit successor of Minirel RDBMS developed as an educational database framework in UW-Madison with more features
 - Push me to learn
 
+This project is being developed loosely in :ref:`agile fasion <timetable.rst>`
+
 ************************
-Overview of LemonDB
+LemonDB Overview
 ************************
 
 

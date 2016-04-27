@@ -1,5 +1,5 @@
 
-.. admonition:: Zeyuan Hu
+.. admonition:: Contact
 
    Email
     ferrishu3886@gmail.com
