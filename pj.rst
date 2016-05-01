@@ -23,4 +23,4 @@ Things that I have not been actively working on. However, minor tweak may rarely
 
 - :ref:`OptiTimal-An android app to do time management <optitimal.rst>`
 - :ref:`mcm.rst`
-- :ref:`Minimal Emacs tutorial <pj/articles/emacs.rst>`
+- :ref:`Minimal Emacs tutorial <emacs.rst>`
