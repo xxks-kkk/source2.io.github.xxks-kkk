@@ -1,7 +1,7 @@
 .. _emacs.rst:
 
 ############################
-Minimal Emacs tutorial
+Minimal Emacs Tutorial
 ############################
 
 Last Update: April 19, 2016
