@@ -8,6 +8,10 @@ As insipired by `game design library <http://www.lizengland.com/blog/game-design
 to build my own book library and develop study notes along with some critics. 
 The library is majorly involved with computer science but not restricted to that solely.
 
+**************************
+Reviews
+**************************
+
 |a| |b|
 
 .. |a| image:: covers/the-art-of-R-programming.jpg
@@ -20,3 +24,6 @@ The library is majorly involved with computer science but not restricted to that
        :width: 189px
        :target: managing-projects-with-gnu-make.html
 
+**************************
+Reading Notes 
+**************************
