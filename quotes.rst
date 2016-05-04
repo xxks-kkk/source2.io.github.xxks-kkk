@@ -14,6 +14,10 @@ To him he is always doing both."
 
 .. stop-show-quotes
 
+"A boss creates fear, a leader confidence. A boss fixes blame, a leader corrects mistakes. A boss knows all, a leader asks questions. A boss makes work drudgery, a leader makes it interesting. A boss is interested in himself or herself, a leader is interested in the group."
+
+**-- Russell H Ewing**
+   
 "I've always lived cheaply. I live like a
 student, basically.  And I like that, because it means that money is not
 telling me what to do.  I can do what I think is important for me to do.
